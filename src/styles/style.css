@@ -8,7 +8,6 @@ body {
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
   grid-template-rows: repeat(3, minmax(10px, auto));
-
   height: 30em;
 }
 
